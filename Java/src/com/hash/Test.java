@@ -12,9 +12,7 @@ public class Test {
 		//Map map = Collections.synchronizedMap(new HashMap<>());
 		
 		HashMap<String, Object> map= new  HashMap<>();
-		if(Objects.isNull(map)){
-			map.put("1", "a");
-		}
+		System.out.println("дь╧Ч");
 	}
 
 }
